@@ -1,0 +1,26 @@
+
+.heading{
+    text-align: center;
+    margin-top: 10px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.form{
+    max-width: 75%;
+    margin: auto;
+}
+
+.table{
+    max-width: 75%;
+    margin: 30px auto;
+}
+
+.logo img{
+    border: black;
+    height: 60px;
+    width: 60px;
+    margin-right: 30px;
+}
